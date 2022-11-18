@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\ProbeaufgabeQnips\ProbeaufgabeQnips\bin\Debug\net6.0\ProbeaufgabeQnips.exe
+C:\Users\User\source\repos\ProbeaufgabeQnips\ProbeaufgabeQnips\bin\Debug\net6.0\ProbeaufgabeQnips.deps.json
+C:\Users\User\source\repos\ProbeaufgabeQnips\ProbeaufgabeQnips\bin\Debug\net6.0\ProbeaufgabeQnips.runtimeconfig.json
+C:\Users\User\source\repos\ProbeaufgabeQnips\ProbeaufgabeQnips\bin\Debug\net6.0\ProbeaufgabeQnips.dll
+C:\Users\User\source\repos\ProbeaufgabeQnips\ProbeaufgabeQnips\bin\Debug\net6.0\ProbeaufgabeQnips.pdb
+C:\Users\User\source\repos\ProbeaufgabeQnips\ProbeaufgabeQnips\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\source\repos\ProbeaufgabeQnips\ProbeaufgabeQnips\obj\Debug\net6.0\ProbeaufgabeQnips.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ProbeaufgabeQnips\ProbeaufgabeQnips\obj\Debug\net6.0\ProbeaufgabeQnips.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ProbeaufgabeQnips\ProbeaufgabeQnips\obj\Debug\net6.0\ProbeaufgabeQnips.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ProbeaufgabeQnips\ProbeaufgabeQnips\obj\Debug\net6.0\ProbeaufgabeQnips.AssemblyInfo.cs
+C:\Users\User\source\repos\ProbeaufgabeQnips\ProbeaufgabeQnips\obj\Debug\net6.0\ProbeaufgabeQnips.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProbeaufgabeQnips\ProbeaufgabeQnips\obj\Debug\net6.0\ProbeaufgabeQnips.csproj.CopyComplete
+C:\Users\User\source\repos\ProbeaufgabeQnips\ProbeaufgabeQnips\obj\Debug\net6.0\ProbeaufgabeQnips.dll
+C:\Users\User\source\repos\ProbeaufgabeQnips\ProbeaufgabeQnips\obj\Debug\net6.0\refint\ProbeaufgabeQnips.dll
+C:\Users\User\source\repos\ProbeaufgabeQnips\ProbeaufgabeQnips\obj\Debug\net6.0\ProbeaufgabeQnips.pdb
+C:\Users\User\source\repos\ProbeaufgabeQnips\ProbeaufgabeQnips\obj\Debug\net6.0\ProbeaufgabeQnips.genruntimeconfig.cache
+C:\Users\User\source\repos\ProbeaufgabeQnips\ProbeaufgabeQnips\obj\Debug\net6.0\ref\ProbeaufgabeQnips.dll
